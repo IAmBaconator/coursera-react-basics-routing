@@ -1,5 +1,8 @@
+import "./App.css";
+import Contact from "./Contact";
+import Homepage from "./Homepage";
+import AboutLittleLemon from "./AboutLittleLemon";
 import { Link, Route, Routes } from "react-router-dom";
-import "./App.test";
 
 function App() {
   return (
